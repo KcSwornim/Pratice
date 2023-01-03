@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,300&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.all{
+    width: 100%;
+    background: orange;
+    padding: 5%;
+    overflow: hidden;
+    height: 700px;
+}
+.header{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+.image
+img{
+height: 300px;  
+margin-left: 100px;
+}
+.main{
+    display: flex;
+}
+.iiimage
+img{
+    height: 300px;
+    margin-left: 100px;
+}
+.iimage
+img{
+    margin-left:100px ;
+}
+.info{
+    display: flex;
+}
+.aizawa{
+    margin-left: 150px;
+    text-align: center;
+}
+.jiriya{
+    margin-left: 250px;
+    text-align: center;
+}
+.shanks{
+    margin-left: 250px;
+    text-align: center;
+}

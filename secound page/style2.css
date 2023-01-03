@@ -17,7 +17,7 @@
     font-size: 120%;
     float: right;
     width: 33.33%;
-    margin-top: -200px;
+    margin-top: -150px;
 }
 .bottom-row{
     width: 130%;
@@ -29,8 +29,8 @@ body{
     img{
         width: 900px;
         height: auto;
-        margin: -100px;
-        padding: -100px;
+        margin-top: -100px;
+        margin-left: 200px;
     }
 
 h1{
